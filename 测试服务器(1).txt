@@ -1,0 +1,12 @@
+﻿ip:47.105.121.59
+账号：root
+密码：kuaipin888*
+
+测试数据库
+ip:47.105.121.59
+port:  3306
+username:  root
+password:  kuaipin888*
+
+
+5.7.26
